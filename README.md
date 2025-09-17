@@ -1,6 +1,10 @@
 # mym_bazar
 
 A new Flutter project.
+Grocery App
+A Flutter-based Grocery Shop app with full UI and Provider state management. Browse categories, view items, add to cart, and checkout with dynamic cart updates. Smooth UI and functional buttons.
+
+![image alt](https://github.com/likhonahamedla/Grocery-Shop-app/blob/3bc45809501ce68f32a55d9cccccbc57f67c8de4/screenshots/gROCERY%20APP.png)
 
 ## Getting Started
 
